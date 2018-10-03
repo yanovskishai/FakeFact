@@ -2,7 +2,7 @@
 Check whether a yes/no question is true or not...
 
 ## Examples:
-* did George Clooney win academy award?
+* Did George Clooney win academy award?
 * Is Jeruslaem the capaitel of Israel?
 * DId Microsoft bankrupt?
 * Did Iclend bankrupt?
@@ -11,8 +11,8 @@ Check whether a yes/no question is true or not...
 * Is Barack Obama black?
 * Did a zonami hit Indoensia?
 * Is Python a Progaming Lngague? 
-* Is Trump a womaen?
-* Is Osama Ben laden dead?
+* Is Trump a woman?
+* Is Osama Bin Laden dead?
 
 
 ## First Phase:
